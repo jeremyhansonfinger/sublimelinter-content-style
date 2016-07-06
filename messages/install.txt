@@ -1,0 +1,9 @@
+sublimelinter-content-style
+-------------------------------
+This linter plugin for sublimelinter provides an interface to content-style.
+** IMPORTANT! **
+
+Before this plugin will activate, you *must*
+follow the installation instructions here:
+
+https://github.com/jeremyhanson-finger/sublimelinter-content-style
