@@ -12,7 +12,7 @@ from SublimeLinter.lint import RubyLinter
 
 
 class ContentStyle(RubyLinter):
-    cmd = "ruby /Users/jeremyhanson-finger/GitHub/content-lint/bin/content_lint_bin.rb"
+    cmd = "ruby /Users/jeremyhanson-finger/GitHub/local-content-style/bin/local_content_style_bin.rb"
     regex = (
         r'^.+?:(?P<line>\d+):(?P<col>\d+): '
         r'(:?(?P<warning>[RCW])|(?P<error>[EF])): '
